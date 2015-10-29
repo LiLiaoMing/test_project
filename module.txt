@@ -1,1 +1,2 @@
 This is module part.
+This is new line.
